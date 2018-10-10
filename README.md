@@ -1,2 +1,0 @@
-# estafeta
-Created with CodeSandbox
